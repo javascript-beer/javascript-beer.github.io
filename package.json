@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "deploy": "git subtree push --prefix .next origin gh-pages",
+    "build": "next build && next export -o dist/",
+    "deploy": "git subtree push --prefix dist origin gh-pages",
     "deploy-force": "git push origin `git subtree split --prefix dist master`:gh-pages --force"
   },
   "dependencies": {
