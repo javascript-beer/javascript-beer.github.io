@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "git subtree push --prefix dist origin gh-pages",
+    "deploy-force": "git push origin `git subtree split --prefix dist master`:gh-pages --force"
   },
   "dependencies": {
     "date-fns": "^2.17.0",
