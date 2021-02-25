@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
-const name = 'JavaScript Beers'
-export const siteTitle = 'JavaScript Beers'
+const name = 'JavaScript and Beers'
+export const siteTitle = 'JavaScript and Beers'
 
 export default function Layout({ children, home }) {
   return (
