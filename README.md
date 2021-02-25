@@ -29,9 +29,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ```shell
 npm run build
-cp CNAME .next/
+cp CNAME dist/
 ```
-Push the .next/ folder to the repository.
+Push the dist/ folder to the repository.
 ```
 npm run deploy
 ```
