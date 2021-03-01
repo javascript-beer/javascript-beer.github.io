@@ -38,9 +38,10 @@ export default function Post({ postData }) {
       </Head>
       <div className="wrap">
         <article>
-          <div className="embed-responsive">
+          <img src={postData.img} alt={postData.alt} />
+          {/* <div className="embed-responsive">
             <iframe className="embed-responsive-item" src={videoEmbed(postData.video)}></iframe>
-          </div>
+          </div> */}
           <h1 className="headingXl">{postData.title}</h1>
           <span className="author">{postData.author}</span>
           <Date dateString={postData.date} />
