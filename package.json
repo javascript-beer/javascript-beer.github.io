@@ -1,5 +1,5 @@
 {
-  "name": "JavaScript and Beers",
+  "name": "javascript-and-beers",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
