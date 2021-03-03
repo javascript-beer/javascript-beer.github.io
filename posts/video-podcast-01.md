@@ -2,9 +2,9 @@
 title: 'Video Podcast nº 1'
 date: '2020-03-03T19:00:00'
 author: 'Hablamos con Carlos Azaustre'
-img: '/images/01-antes.jpg'
-alt: 'Video Podcast nº 1 - Hablamos con Carlos Azaustre. 3 de Marzo, 19.00 horas. Thanks to Avatar Recep Kütük & Pierre - Louis Anceau for their icons.'
+img: '/images/01-despues.jpg'
+alt: 'Video Podcast nº 1 - Estuvimos hablando con Carlos Azaustre. ¿Te perdiste la sesión? Vuelve a verla en nuestro canal y suscríbete. Thanks to Pierre - Louis Anceau for his icon.'
 body: ''
-video: 'https://www.youtube.com/watch?v=lVh7wJ3TKY4&ab_channel=JavaScriptBeers'
-publishVideo: true
+video: 'https://www.youtube.com/watch?v=g274h7w0TTk'
+publishVideo: false
 --- 
