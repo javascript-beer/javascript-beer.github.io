@@ -24,7 +24,9 @@ export default function Home({ allPostsData }) {
         {allPostsData.map(({ id, date, title, author, body, img, alt }) => (
           <li key={id}>
             <article>
-              <img src={img} alt={alt} />
+              <Link href={`/posts/${id}`}>
+                <a><img src={img} alt={alt} /></a>
+              </Link>
               <h2>
                 <Link href={`/posts/${id}`}>
                   <a>{title}</a>
