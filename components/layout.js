@@ -22,6 +22,7 @@ export default function Layout({ children, home }) {
       <main>
 	  <p>
 	  Charlamos con gente durante las cervezas de un evento online javascripter… pero sin evento.
+	  </p>
 	  {children}
 	  </main>
     </>
