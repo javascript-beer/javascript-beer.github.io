@@ -19,7 +19,11 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      <main>{children}</main>
+      <main>
+	  <p>
+	  Charlamos con gente durante las cervezas de un evento online javascripter… pero sin evento.
+	  {children}
+	  </main>
     </>
   )
 }
