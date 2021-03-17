@@ -24,7 +24,10 @@ export default function Layout({ children, home }) {
           <li><a href="https://www.linkedin.com/company/javascript-beer/"><img src="/images/ico-linkedin.png" alt="ir a nuestro Linkedin" /></a></li>
         </ul>
       </header>
-      <main>{children}</main>
+      <main>
+        <p className="intro">Charlamos con gente durante las cervezas de un evento online javascripter… pero sin evento.</p>  
+        {children}
+      </main>
     </>
   )
 }
