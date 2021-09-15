@@ -1,10 +1,10 @@
 ---
 title: 'Video Podcast nº 6'
 date: '2021-09-15T19:00:00'
-author: 'Hablamos con Gonzalo Ruiz de Villa (@gruizdevilla)'
-img: '/images/06-antes.jpg'
-alt: 'Video Podcast nº 6 - Hablamos con Gonzalo Ruiz de Villa (@gruizdevilla). 15 de Septiembre, 19.00 horas. Thanks to Avatar Recep Kütük & Pierre - Louis Anceau for their icons.'
+author: 'Estuvimos hablando con Gonzalo Ruiz de Villa (@gruizdevilla)'
+img: '/images/06-despues.jpg'
+alt: 'Video Podcast nº 6 - Estuvimos hablando con Gonzalo Ruiz de Villa (@gruizdevilla). ¿Te perdiste la sesión? Vuelve a verla en nuestro canal y suscríbete. Thanks to Pierre - Louis Anceau for his icon.'
 body: ''
-video: 'https://www.youtube.com/watch?v=pycyFh9gvbo'
-publishVideo: false
+video: 'https://www.youtube.com/watch?v=rHvNgK_C4HI'
+publishVideo: true
 --- 
