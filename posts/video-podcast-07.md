@@ -1,0 +1,10 @@
+---
+title: 'Video Podcast nº 7'
+date: '2021-10-06T19:00:00'
+author: 'Hablamos con Natalia Venditto (@AnfibiaCreativa)'
+img: '/images/07-despues.jpg'
+alt: 'Video Podcast nº 7 - Hablamos con Natalia Venditto (@AnfibiaCreativa). 06 de Octubre, 19.00 horas. Thanks to Avatar Recep Kütük & Pierre - Louis Anceau for their icons.'
+body: ''
+video: 'https://www.youtube.com/watch?v=rHvNgK_C4HI'
+publishVideo: false
+--- 
