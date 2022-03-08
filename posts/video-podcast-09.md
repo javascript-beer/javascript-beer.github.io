@@ -1,10 +1,10 @@
 ---
-title: "Video Podcast nº 9"
-date: "2022-03-02T19:00:00"
-author: "Hablamos con Carlos Blé (@carlosble)"
-img: "/images/09-antes.jpg"
-alt: "Video Podcast nº 9 - En nuestra próxima sesión, charlaremos con Carlos Blé. 03 de Marzo, 19.00 horas."
-body: ""
-video: ""
-publishVideo: false
+title: 'Video Podcast nº 9'
+date: '2022-03-02T19:00:00'
+author: 'Hablamos con Carlos Blé (@carlosble)'
+img: '/images/09-despues.jpg'
+alt: 'Video Podcast nº 9 - Estuvimos hablando con Carlos Blé (@carlosble). 03 de Marzo, 19.00 horas. Thanks to Avatar Recep Kütük & Pierre - Louis Anceau for their icons.'
+body: ''
+video: 'https://www.youtube.com/watch?v=9vkNSwN-gxU'
+publishVideo: true
 ---
