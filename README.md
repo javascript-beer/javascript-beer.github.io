@@ -31,8 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 npm run build
 cp CNAME dist/
 touch dist/.nojekyll
-```
-Push all the contents inside the dist/ folder to the repository.
-```
+git add .
 npm run deploy
 ```
