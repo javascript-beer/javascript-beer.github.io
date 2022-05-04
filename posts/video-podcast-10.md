@@ -5,6 +5,6 @@ author: 'Hablamos con David Bonilla (@david_bonilla)'
 img: '/images/10-antes.jpg'
 alt: 'Video Podcast nº 10 - Hablaremos con David Bonilla (@david_bonilla). 04 de Mayo, 19.00 horas. Thanks to Avatar Recep Kütük & Pierre - Louis Anceau for their icons.'
 body: ''
-video: ''
-publishVideo: false
+video: 'https://www.youtube.com/watch?v=FxlSqdhpg8E'
+publishVideo: true
 ---
