@@ -32,5 +32,6 @@ npm run build
 cp CNAME dist/
 touch dist/.nojekyll
 git add .
+git commit -am "XXX"
 npm run deploy
 ```
